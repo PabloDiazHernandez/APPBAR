@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">appbarexplicita</string>
+    <string name="titulo_largo">Titulo Largo APPBAR</string>
+    <string name="subtitulo">Subtitulo</string>
+    <string name="fragmento_1">Fragmento 1</string>
+    <string name="fragmento_2">Fragmento 2</string>
+</resources>
